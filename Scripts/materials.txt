@@ -1,0 +1,37 @@
+Wood
+Metal
+Glass
+Leather
+Fabric
+Plastic
+Stone
+Bamboo
+Rattan
+Wicker
+Cork
+Concrete
+Vinyl
+Resin
+Linen
+Silk
+Foam
+Synthetic Leather
+Plywood
+Teak
+Oak
+Walnut
+Mahogany
+Steel
+Iron
+Aluminum
+Chrome
+Wrought Iron
+Bronze
+Brass
+Acrylic
+Velvet
+Microfiber
+Suede
+Jute
+Woven Fiber
+Laminate
